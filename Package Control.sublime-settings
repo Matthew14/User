@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"CompleteSharp",
+		"Package Control",
+		"Python Auto-Complete",
+		"SFTP",
+		"SublimeREPL",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"Theme - Nil",
+		"Theme - Phoenix",
+		"Theme - Refined",
+		"Theme - Refresh",
+		"Theme - Soda"
+	]
+}

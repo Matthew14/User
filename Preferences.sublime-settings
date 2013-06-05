@@ -1,0 +1,63 @@
+{
+	"dictionary": "Packages/Language - English/en_GB.dic",
+
+	"auto_complete_commit_on_tab": true,
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"find_selected_text": true,
+	"fade_fold_buttons": true,
+	"ensure_newline_at_eof_on_save": true,
+
+	"folder_exclude_patterns":
+	[
+		".git",
+		".protect"
+	],
+	"file_exclude_patterns":
+	[
+		"*.exe",
+		"*.mov",
+		"*.mp3",
+		"*.mp4",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.pdf",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.suo",
+		"*.swf",
+		"*.tmLanguage.cache",
+		"*.tmPreferences.cache",
+		"*.xls",
+		".DS_Store",
+		".gitkeep"
+	],
+	"ignored_packages":["Vintage"],
+	"draw_minimap_border": false,
+	"highlight_modified_tabs": true,
+
+	"draw_white_space": "all",
+	"translate_tabs_to_spaces": true,
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"tab_size": 4,
+	"save_on_focus_lost": true,
+	"rulers": [80, 0],
+	"trim_trailing_white_space_on_save": true,
+
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"word_wrap": true,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	// "theme": "Soda Dark.sublime-theme",
+	// "soda_classic_tabs": false,
+	// "soda_folder_icons": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
+}
