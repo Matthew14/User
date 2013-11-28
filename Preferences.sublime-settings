@@ -1,18 +1,14 @@
 {
-	"dictionary": "Packages/Language - English/en_GB.dic",
-
 	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"copy_with_empty_selection": true,
 	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
-	"find_selected_text": true,
-	"fade_fold_buttons": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-
-	"folder_exclude_patterns":
-	[
-		".git",
-		".protect"
-	],
+	"fade_fold_buttons": true,
 	"file_exclude_patterns":
 	[
 		"*.exe",
@@ -33,31 +29,68 @@
 		".DS_Store",
 		".gitkeep"
 	],
-	"ignored_packages":["Vintage"],
-	"draw_minimap_border": false,
-	"highlight_modified_tabs": true,
-
-	"draw_white_space": "all",
-	"translate_tabs_to_spaces": true,
-	"remember_open_files": true,
-	"remember_open_folders": true,
-	"tab_size": 4,
-	"save_on_focus_lost": true,
-	"rulers": [80, 0],
-	"trim_trailing_white_space_on_save": true,
-
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"word_wrap": true,
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".protect"
+	],
 	"font_face": "Consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13,
-	// "theme": "Soda Dark.sublime-theme",
-	// "soda_classic_tabs": false,
-	// "soda_folder_icons": true,
+	"font_size": 14,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"BracketHighlighter",
+		"Vintage",
+		"sublime-github",
+		"SFTP",
+		"SublimeREPL",
+		"Theme - Phoenix"
+	],
+	"ignored_words":
+	[
+		"O|",
+		"oo"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"rulers":
+	[
+		80,
+		0
+	],
+	"save_on_focus_lost": true,
+	"sublimelinter": true,
+	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
+	"todo":
+	{
+		"file_exclude_patterns":
+		[
+			"*.css"
+		],
+		"folder_exclude_patterns":
+		[
+			"vendor",
+			"tmp",
+			"bootstrap"
+		],
+		"patterns":
+		{
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		},
+		"result_title": "Task List"
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

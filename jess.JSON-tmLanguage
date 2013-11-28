@@ -1,0 +1,12 @@
+{ "name": "Jess",
+  "scopeName": "source.jess",
+  "fileTypes": ["clp"],
+  "patterns": [
+    { "match": "(\\b(?i:(defun|defmethod|defmacro|define))\\b)(\\s+)((\\w|\\-|\\!|\\?)*)",
+      "name": "keyword.source.ssraw",
+      "comment": "Tab stops like $1, $2..."
+    }
+  ],
+  "uuid": "ca03e751-04ef-4330-9a6b-9b99aae1c418"
+}
+
