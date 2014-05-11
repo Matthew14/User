@@ -1,0 +1,95 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
+	"copy_with_empty_selection": true,
+	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_indent_guides": true,
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		"*.exe",
+		"*.mov",
+		"*.mp3",
+		"*.mp4",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.pdf",
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"*.suo",
+		"*.swf",
+		"*.tmLanguage.cache",
+		"*.tmPreferences.cache",
+		"*.xls",
+		".DS_Store",
+		".gitkeep"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".protect"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeREPL",
+		"sublime-github",
+		"Theme - Phoenix",
+		"SublimeGit",
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"O|",
+		"oo"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"spell_check": true,
+	"sublimelinter": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"todo":
+	{
+		"file_exclude_patterns":
+		[
+			"*.css"
+		],
+		"folder_exclude_patterns":
+		[
+			"vendor",
+			"tmp",
+			"bootstrap"
+		],
+		"patterns":
+		{
+			"CHANGED": "CHANGED[\\s]*?:+(?P<changed>\\S.*)$",
+			"FIXME": "FIX ?ME[\\s]*?:+(?P<fixme>\\S.*)$",
+			"NOTE": "NOTE[\\s]*?:+(?P<note>.*)$",
+			"TODO": "TODO[\\s]*?:+(?P<todo>.*)$"
+		},
+		"result_title": "Task List"
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

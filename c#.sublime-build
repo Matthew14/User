@@ -1,0 +1,7 @@
+ {      
+    // This build system will build your cs file to exe file and will run it
+    "cmd": ["csc", "$file", "&&", "$file_base_name"],
+    "file_regex": "^(...*?)[(]([0-9]*),([0-9]*)[)]",
+    "shell": true, 
+    "selector": "source.cs"
+ }
