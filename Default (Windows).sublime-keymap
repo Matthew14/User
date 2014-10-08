@@ -1,4 +1,0 @@
-[
-    { "keys": ["shift+alt+e"], "command": "open_dir", "args":{"dir": "$file_path", "file": "$file_name"}},
-
-]

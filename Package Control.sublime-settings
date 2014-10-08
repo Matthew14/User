@@ -1,25 +1,25 @@
 {
-	"installed_packages":
-	[
-		"All Autocomplete",
-		"Emmet",
-		"Git",
-		"GitGutter",
-		"GitHub Flavored Markdown Preview",
-		"Indent XML",
-		"LinkOpener",
-		"Markdown Preview",
-		"PlainTasks",
-		"Python Auto-Complete",
-		"Racket",
-		"SFTP",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeGit",
-		"SublimePythonIDE",
-		"Theme - Flatland",
-		"Unittest (python)",
-		"View In Browser",
-		"Visual Studio Dark"
-	]
-}
+"installed_packages":
+        [
+            "All Autocomplete",
+
+            "Emmet",
+            "Git",
+            "GitGutter",
+            "GitHub Flavored Markdown Preview",
+            "Indent XML",
+            "LinkOpener",
+            "Markdown Preview",
+            "PlainTasks",
+            "Python Auto-Complete",
+            "Racket",
+            "SideBarEnhancements",
+            "SublimeCodeIntel",
+            "SublimeGit",
+            "Theme - Flatland",
+            "SublimePythonIDE",
+            "Unittest (python)",
+            "View In Browser",
+            "Visual Studio Dark"
+        ]
+    }

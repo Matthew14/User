@@ -2,4 +2,8 @@
 	"shell": true,
 	"cmd": ["gcc $file_name -o $file_base_name.exe -Wall -std=c99"],
     "working_dir": "${file_path}"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 080f5b5cec4e572a7fece61e6e88a63de095825c

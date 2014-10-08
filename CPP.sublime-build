@@ -1,0 +1,5 @@
+{
+	"shell": true,
+	"cmd": ["g++ $file_name -o $file_base_name.exe -Wall"],
+    "working_dir": "${file_path}"
+}

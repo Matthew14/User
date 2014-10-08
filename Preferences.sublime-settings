@@ -1,9 +1,9 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"color_scheme": "Packages/User/Flatland Dark (SublimePythonIDE).tmTheme",
 	"copy_with_empty_selection": true,
 	"detect_indentation": true,
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
 	"draw_white_space": "all",
@@ -28,7 +28,26 @@
 		"*.xls",
 		".DS_Store",
 		".gitkeep",
-		"*.pyc"
+		".gitkeep",
+		"*.pyc",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Indent XML",
+		"LinkOpener",
+		"Markdown Preview",
+		"PlainTasks",
+		"Python Auto-Complete",
+		"Racket",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"Theme - Flatland",
+		"SublimePythonIDE",
+		"Theme - Flatland",
+		"Unittest (python)",
+		"View In Browser",
+		"Visual Studio Dark"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -45,13 +64,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Theme - Phoenix",
-		"sublime-github",
+		"BracketHighlighter",
 		"Vintage",
+		"sublime-github",
+		"SFTP",
 		"SublimeREPL",
-		"PlainTasks",
-		"SublimeGit",
-		"SublimePythonIDE"
+		"Theme - Phoenix"
 	],
 	"ignored_words":
 	[
@@ -64,10 +82,10 @@
 	"remember_open_folders": true,
 	"rulers":
 	[
-		80
+		80,
+		0
 	],
 	"save_on_focus_lost": true,
-	"spell_check": false,
 	"sublimelinter": true,
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",

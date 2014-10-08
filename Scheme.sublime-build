@@ -1,0 +1,6 @@
+{
+    "shell" : true,
+    "cmd": ["gsi", "$file"],
+    "selector" :["source.scm"],
+    "working_dir": "${file_path}"
+}
