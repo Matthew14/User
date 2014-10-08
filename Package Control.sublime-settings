@@ -1,12 +1,14 @@
 {
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"All Autocomplete",
-		"Focus Last Tab",
+		"Emmet",
 		"Git",
 		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Indent XML",
 		"LinkOpener",
+		"Markdown Preview",
 		"PlainTasks",
 		"Python Auto-Complete",
 		"Racket",
@@ -14,6 +16,10 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"Theme - Flatland"
+		"SublimePythonIDE",
+		"Theme - Flatland",
+		"Unittest (python)",
+		"View In Browser",
+		"Visual Studio Dark"
 	]
 }

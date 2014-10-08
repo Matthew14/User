@@ -1,6 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
 	"copy_with_empty_selection": true,
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
@@ -27,7 +27,8 @@
 		"*.tmPreferences.cache",
 		"*.xls",
 		".DS_Store",
-		".gitkeep"
+		".gitkeep",
+		"*.pyc"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -40,15 +41,17 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeREPL",
-		"sublime-github",
 		"Theme - Phoenix",
+		"sublime-github",
+		"Vintage",
+		"SublimeREPL",
+		"PlainTasks",
 		"SublimeGit",
-		"Vintage"
+		"SublimePythonIDE"
 	],
 	"ignored_words":
 	[
@@ -64,7 +67,7 @@
 		80
 	],
 	"save_on_focus_lost": true,
-	"spell_check": true,
+	"spell_check": false,
 	"sublimelinter": true,
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
