@@ -64,12 +64,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"BracketHighlighter",
 		"Vintage",
+		"BracketHighlighter",
 		"sublime-github",
-		"SFTP",
 		"SublimeREPL",
-		"Theme - Phoenix"
+		"Theme - Phoenix",
+		"SFTP"
 	],
 	"ignored_words":
 	[
