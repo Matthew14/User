@@ -46,8 +46,7 @@
 		"SublimePythonIDE",
 		"Theme - Flatland",
 		"Unittest (python)",
-		"View In Browser",
-		"Visual Studio Dark"
+		"View In Browser"
 	],
 	"find_selected_text": true,
 	"folder_exclude_patterns":
@@ -64,12 +63,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"BracketHighlighter",
-		"sublime-github",
-		"SublimeREPL",
-		"Theme - Phoenix",
-		"SFTP"
+		"Vintage"
 	],
 	"ignored_words":
 	[
