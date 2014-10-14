@@ -4,3 +4,6 @@ SublimeREPLHistory
 Theme - Flatron
 *.log 
 *.last-run 
+Package Control.cache 
+Package Control.last-run 
+SFTP.errors.log 
