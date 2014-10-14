@@ -2,3 +2,5 @@ SublimeREPLHistory
 *.tmTheme
 *.cache
 Theme - Flatron
+*.log 
+*.last-run 
