@@ -49,20 +49,23 @@
 		"View In Browser"
 	],
 	"find_selected_text": true,
+	"flatland_sidebar_tree_small": true,
+	"flatland_square_tabs": false,
 	"folder_exclude_patterns":
 	[
 		".git",
 		".protect"
 	],
-	"font_face": "Consolas",
+	"font_face": "consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"PlainTasks",
 		"Vintage"
 	],
 	"ignored_words":
@@ -77,7 +80,8 @@
 	"rulers":
 	[
 		80,
-		0
+		0,
+		120
 	],
 	"save_on_focus_lost": true,
 	"sublimelinter": true,

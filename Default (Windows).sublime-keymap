@@ -1,5 +1,4 @@
 [
    { "keys": ["shift+alt+e"], "command": "open_dir", "args":{"dir": "$file_path", "file": "$file_name"}},
-   { "keys": ["ctrl+alt+t"], "command": "open_terminal" },
-   { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" }
+   { "keys": ["ctrl+alt+p"], "command": "copy_path" }
 ]
